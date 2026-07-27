@@ -80,6 +80,6 @@ McUpdater 由两部分组成，需要配合使用：
 - 🔧 **[服务端快速开始](/guide/getting-startedserver)**
 - 🎮 **[客户端快速开始](/guide/getting-startedclient)**
 
-如果在部署中遇到问题，可以查阅更详细的 [配置参考](/docs/configuration) 或 [常见问题](/docs/faq)。
+如果在部署中遇到问题，可以查阅更详细的 [配置参考](/set/config-reference) 或 [常见问题](/set/faq)。
 
 祝你更新愉快！🎉
